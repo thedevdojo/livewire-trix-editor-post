@@ -1,4 +1,5 @@
-This is a project that was created for the following tutorial on the DevDoo
+## This is a project that was created for the following tutorial on the DevDojo:
+
 [https://devdojo.com/tnylea/laravel-livewire-trix-editor-component](https://devdojo.com/tnylea/laravel-livewire-trix-editor-component)
 
 ## About Laravel
